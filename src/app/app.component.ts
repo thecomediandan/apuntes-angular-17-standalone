@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'apuntes-git-angular';
+  title = 'Estos son mis Apuntes de Git :D';
 }
